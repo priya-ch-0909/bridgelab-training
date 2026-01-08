@@ -1,1 +1,3 @@
-feature.txt
+This is a test file for the feature branch.
+Line 2: Adding readable content.
+Line 3: Just some sample text.
