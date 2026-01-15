@@ -9,3 +9,8 @@ git log - used for displaying all the commits information
 git push -u origin -it is used for pushing the data in specific origin
 git status - is used to check on which branch we are 
 git help - is used for helping the person .
+all these are git commands used 
+by me 
+to see the answer 
+okay now  do the anything
+
